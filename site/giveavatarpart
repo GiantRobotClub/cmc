@@ -1,0 +1,2 @@
+
+<%String name = session.getAttribute("loginname").toString();%>

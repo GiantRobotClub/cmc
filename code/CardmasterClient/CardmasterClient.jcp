@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project>
+	<settings>
+		<label>CardmasterClient</label>
+		<root_path>\</root_path>
+		<output_path>G:\cmc\cmc\code\CardmasterClient\classes\</output_path>
+		<source_path>\</source_path>
+		<jdkprofile_ref>JDK version 1.5.0_06</jdkprofile_ref>
+		<compiler_ref>&lt;Default&gt;</compiler_ref>
+		<ant_ref/>
+	</settings>
+	<ant_events/>
+	<run_items/>
+	<runtimes>
+		<runtime>
+			<label>&lt;Default&gt;</label>
+			<application_ref/>
+			<applet_ref/>
+			<debugger_ref/>
+			<param/>
+			<run/>
+			<verify>true</verify>
+		</runtime>
+	</runtimes>
+	<libraries/>
+	<files>
+		<include>
+			<fileitem>
+				<path>CardmasterCard.java</path>
+			</fileitem>
+			<fileitem>
+				<path>CardmasterCardEditor.java</path>
+			</fileitem>
+			<fileitem>
+				<path>CardmasterClient.java</path>
+			</fileitem>
+			<fileitem>
+				<path>CardmasterImageManager.java</path>
+			</fileitem>
+			<fileitem>
+				<path>CardmasterMatchClient.java</path>
+			</fileitem>
+			<fileitem>
+				<path>CardmasterTradeClient.java</path>
+			</fileitem>
+		</include>
+		<exclude>
+			<fileitem>
+				<path>CardmasterCardCopy.java</path>
+			</fileitem>
+			<fileitem>
+				<path>CardmasterCardMaker.java</path>
+			</fileitem>
+			<fileitem>
+				<path>CardmasterClientCopy.java</path>
+			</fileitem>
+			<fileitem>
+				<path>CardmasterObserverClient.java</path>
+			</fileitem>
+		</exclude>
+	</files>
+	<tasks/>
+</project>

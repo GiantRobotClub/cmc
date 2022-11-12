@@ -1,0 +1,24 @@
+Manual User Patch (Careful with this. Make sure there's values in everything even if they're not needed)<br>
+<FORM METHOD=POST ACTION="userPatchDB.jsp">
+ <SELECT NAME="code">
+ <OPTION VALUE="pass">Set Password to Text</OPTION>
+ <OPTION VALUE="addp">Add Points</OPTION>
+ <OPTION VALUE="remp">Remove Points</OPTION>
+ <OPTION VALUE="setp">Set Primary Deck</OPTION>
+ <OPTION VALUE="addd">Add Deck Number</OPTION>
+ <OPTION VALUE="remd">Remove Non-Existing Deck</OPTION>
+ <OPTION VALUE="rmdx">Remove Existing Deck</OPTION>
+ <OPTION VALUE="addw">Add a Win</OPTION>
+ <OPTION VALUE="addl">Add a Loss</OPTION>
+ <OPTION VALUE="verf">Verify Account</OPTION>
+ <OPTION VALUE="logn">Set Last Login to Now</OPTION>
+ <OPTION VALUE="encp">Force Binary Password</OPTION>
+ <OPTION VALUE="adav">Add Avatar Part Number</OPTION>
+ <OPTION VALUE="seav">Set Avatar Part</OPTION>
+
+ </SELECT><br>
+ Name: <INPUT TYPE=TEXT name=name value="name"><br>
+ Text: <INPUT TYPE=TEXT name=text value="0"><br>
+ Numb: <INPUT TYPE=TEXT name=num value="0"><br>
+<INPUT TYPE=SUBMIT value="Patch!"><Br><br>
+</FORM>

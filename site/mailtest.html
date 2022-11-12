@@ -1,0 +1,23 @@
+<%@ page import="sun.net.smtp.SmtpClient, java.io.*" %>
+<%
+String from="webrunner@cmc.redleaf.de";
+String to="webrunner@cmc.redleaf.de";
+try{
+SmtpClient client = new SmtpClient("smtp.redleaf.de");
+client.from(from);
+client.to(to);
+PrintStream message = client.startMessage();
+message.println("To: " + to);
+message.println("Subject: Cardmasters Conflict Registration");
+message.println("This email has been sent from Cardmasters Conflict.");
+message.println("To activate your account, go to the following address:");
+
+message.println("If you have not signed up for an account, please disregard this message"); 
+message.println("If your email has broken, go to the following url:");
+
+client.closeServer();
+}
+catch (IOException e){ 
+System.out.println("ERROR SENDING EMAIL:"+e);
+}
+%>

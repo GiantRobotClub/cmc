@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>CardmasterServer</label>
+	</settings>
+	<users>
+		<user>
+			<path>CardmasterServer.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>..\CardmasterClient\CardmasterClient.jcp</path>
+		</project>
+		<project>
+			<path>CardmasterServer.jcp</path>
+		</project>
+	</projects>
+</workspace>

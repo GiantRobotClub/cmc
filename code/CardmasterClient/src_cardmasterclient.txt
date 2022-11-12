@@ -1,0 +1,6 @@
+G:\cmc\cmc\code\CardmasterClient\CardmasterCard.java
+G:\cmc\cmc\code\CardmasterClient\CardmasterCardEditor.java
+G:\cmc\cmc\code\CardmasterClient\CardmasterClient.java
+G:\cmc\cmc\code\CardmasterClient\CardmasterImageManager.java
+G:\cmc\cmc\code\CardmasterClient\CardmasterMatchClient.java
+G:\cmc\cmc\code\CardmasterClient\CardmasterTradeClient.java

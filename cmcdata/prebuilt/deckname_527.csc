@@ -1,0 +1,1 @@
+Gauntlet of Shielding (donation)

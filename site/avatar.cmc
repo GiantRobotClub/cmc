@@ -1,0 +1,174 @@
+0#Blank#xx#blank#0#0#0#b#
+1#Base Legs (Skintone 1) (Male)#baselegs#m_base_legs_1#0#0#0#m#
+2#Base Body (Skintone 1) (Male)#basebody#m_base_body_1#0#0#0#m#
+3#Base Head (Skintone 1) (Male)#basehead#m_base_head_1#0#0#0#m#
+4#Webrunner Jacket#jacket#m_jacket_webrunner#99999#0#0#m#
+5#White T-Shirt (Male)#shirt#m_tshirt_white#0#0#0#m#
+6#Black Running Shoes#shoes#b_shoes_running_black#500#1#0#null#
+7#Blank Grey Background#background#b_background_grey#0#0#0#b#
+8#Black Poofy Hair#hair#b_hair_black_poofy#100#1#0#null#
+9#Basic Sword#front#b_front_sword_basic#6000#1#0#b#
+10#Tan Cargo Pants#pants#b_pants_cargo_tan#4500#1#0#null#
+11#Blank Yellow Background#background#b_background_yellow#100#1#0#b#
+12#Grey Angel Wings#back#b_back_wings_ltgrey#20000#1#0#null#
+13#Base Head (Green) (Male)#basehead#m_base_head_green#700#1#0#m#
+14#Base Legs (Green) (Male)#baselegs#m_base_legs_green#777#1#0#m#
+15#Base Body (Green) (Male)#basebody#m_base_body_green#1000#1#0#m#
+16#Running Shoes (Blue)#shoes#b_shoes_running_blue#600#1#0#b#
+17#Blue Jeans (Male)#pants#m_pants_jeans#0#0#0#m#
+18#Fingerless Gloves (Dark Grey)#hands#b_hands_fingerless_black#1000#1#0#b#
+19#Red T-Shirt (Male)#shirt#m_tshirt_red#700#1#0#m#
+20#Dark Blue Jacket#jacket#m_jacket_darkblue#2500#1#0#m#
+21#Black Basic Hair#hair#b_hair_black_basic#700#1#0#null#
+22#Grey Backwards Baseball Cap#hat#b_hat_baseball_grey#1200#1#0#null#
+23#Purple Amulet with Gold Chain#front#b_front_amulet_gold_purple#10000#1#0#null#
+24#Base Legs (Skintone 2) (Male)#baselegs#m_base_legs_2#0#1#0#m#
+25#Base Body (Skintone 2) (Male)#basebody#m_base_body_2#0#1#0#m#
+26#Base Head (Skintone 2) (Male)#basehead#m_base_head_2#0#1#0#m#
+27#Void With Platforms#background#b_background_void_platforms#15000#1#0#b#
+28#Blue Cape#back#b_back_cape_blue#7000#1#0#b#
+29#Wooden Sandals#shoes#b_shoes_oriental_1#6000#1#0#b#
+30#Black Jeans (Male)#pants#m_pants_jeans_black#600#1#0#m#
+31#Dark Energy#hands#b_hands_darkenergy#9000#1#0#b#
+32#Blue T-Shirt (Male)#shirt#m_tshirt_blue#600#1#0#m#
+33#Red Jacket (Male)#jacket#m_jacket_red#3500#1#0#m#
+34#Blonde Basic Hair#hair#b_hair_blonde_basic#1000#1#0#b#
+35#Doctor's Mirror#hat#b_hat_doctors_disc#1700#1#0#b#
+36#Basic Axe#front#b_front_axe#6000#1#0#b#
+37#Cityscape Roof#background#b_background_cityroof#12500#1#0#b#
+38#Shadehawk's Hair#hair#b_hair_shadehawk#25000#1#0#b#
+39#Shadehawk's Sunglasses#hat#b_hat_shadehawk#45000#1#0#b#
+40#The Silver Arrow#front#b_front_silverarrow#66006#1#0#b#
+41#Shadehawk's Trenchcoat (Front)#jacket#m_jacket_shadehawk#35000#1#0#b#
+42#Shadehawk's T-Shirt#shirt#m_shirt_shadehawk#1500#1#0#m#
+43#Shadehawk's Arm Wraps#hands#b_hands_shadehawk#15000#1#0#b#
+44#Shadehawk's Pants#pants#m_pants_shadehawk#30000#1#0#m#
+45#Shadehawk's Boots#shoes#b_shoes_shadehawk#16000#1#0#b#
+46#Base Legs (Skintone 3) (Male)#baselegs#m_base_legs_3#0#1#0#m#
+47#Base Body (Skintone 3) (Male)#basebody#m_base_body_3#0#1#0#b#
+48#Base Head (Skintone 3) (Male)#basehead#m_base_head_3#0#1#0#m#
+49#Shadehawk's Trenchcoat (Flaps)#back#b_back_trenchcoat_shadehawk#10000#1#0#b#
+50#Broadsword#front#b_front_broadsword#19000#1#0#b#
+51#Brown Hat#hat#b_hat_brown#1200#1#0#b#
+52#Karn's Hair#hair#m_hair_karn#40000#1#0#b#
+53#Karn's Armor#jacket#m_jacket_karn#25000#1#0#m#
+54#Karn's Armguards#hands#b_hands_karn#21000#1#0#b#
+55#Brick Red Long Sleeved Shirt (Male)#shirt#m_shirt_burgundy#1500#1#0#m#
+56#Karn's Pants#pants#m_pants_karn#15100#1#0#m#
+57#Karn's Boots#shoes#b_shoes_karn#7000#1#0#b#
+58#ADV Skintone Base Legs (male)#baselegs#m_legs_karn#3000#1#0#m#
+59#ADV Skintone Base Body (Male)#basebody#m_body_karn#4000#1#0#m#
+60#Karn's Head#basehead#m_head_karn#16500#1#0#m#
+61#Slime Pets#back#b_back_slimepets#44000#1#0#b#
+62#Grasslands#background#b_background_grassland#35000#1#0#b#
+63#CMC Cards#front#b_front_cmccards#75000#1#0#b#
+64#Blue Backwards Baseball Cap#hat#b_hat_baseball_blue#1200#1#0#b#
+65#Black Mid-length Hair (Female)#hair#f_hair_shoulder_black#650#1#0#b#
+66#Purple Jacket#jacket#b_jacket_purple#3500#1#0#b#
+67#Gold Armbands#hands#b_hands_goldbands#5000#1#0#b#
+68#White T-Shirt (Female)#shirt#f_tshirt_white#150#1#0#f#
+69#Athletic Blue Shorts#pants#b_shorts_blue_athletic#1700#1#0#b#
+70#Red Running Shoes#shoes#b_shoes_running_red#750#1#0#b#
+71#Base Legs (Skintone 1) (Female)#baselegs#f_baselegs_1#0#1#0#b#
+72#Base Body (Skintone 1) (female)#basebody#f_basebody_1#0#1#0#f#
+73#Base Head (Skintone 1) (Female)#basehead#f_basehead_1#0#1#0#f#
+74#Fire Aura#back#b_back_fireaura#62626#1#0#b#
+75#Blank Green Background#background#b_background_green#200#1#0#b#
+76#Flooding (Front part)#front#b_front_water#6000#1#0#b#
+77#Flooding (Back Part)#back#b_back_water#6000#1#0#b#
+78#Red Backwards Baseball Cap#hat#b_hat_baseball_red#1300#1#0#b#
+79#Blonde Mid-Length Hair (female)#hair#f_hair_shoulder_blonde#1000#1#0#f#
+80#White Jacket#jacket#b_jacket_white#2750#1#0#b#
+81#Claw Weapons#hands#b_hands_clawweapons#6767#1#0#b#
+82#Pink T-Shirt (female)#shirt#f_tshirt_pink#350#1#0#f#
+83#Red Athletic Shorts#pants#b_shorts_red_athletic#1850#1#0#b#
+84#Grey Running Shoes#shoes#b_shoes_running_grey#650#1#0#b#
+85#Base Legs (Skintone 2) (Female)#baselegs#f_baselegs_2#0#1#0#f#
+86#Base Body (Skintone 2) (Female)#basebody#f_basebody_2#0#1#0#f#
+87#Base Head (Skintone 2) (Female)#basehead#f_basehead_2#0#1#0#f#
+88#Final Boss Fight 2#background#b_background_khrima2#98000#1#0#b#
+89#Final Boss Fight 2#background#b_background_khrima1#87000#1#0#b#
+90#Final Boss Fight 3#background#b_background_khrima3#78000#1#0#b#
+91#Darken (Night)#front#b_front_darken#6000#1#0#b#
+92#Wizard Hat#hat#b_hat_wizard#5600#1#0#b#
+93#White Mid-Length Hair (Female)#hair#f_hair_shoulder_white#3700#1#0#f#
+94#Black Suit Jacket#jacket#b_jacket_suit#9400#1#0#b#
+95#White Gloves#hands#b_hands_whitegloves#3300#1#0#b#
+96#Blue T-Shirt (Female)#shirt#f_tshirt_blue#600#1#0#f#
+97#Jean Cut-Offs#b_pants_cutoffs#b_pants_cutoffs#4200#1#0#b#
+98#Skis#shoes#b_shoes_skis#8700#1#0#b#
+99#Base Legs (Skintone 3) Female)#baselegs#f_baselegs_3#0#1#0#f#
+100#Base Body (Skintone 3) (Female)#basebody#f_basebody_3#0#1#0#f#
+101#Base Head (Skintone 3) (Female)#basehead#f_basehead_3#0#1#0#f#
+102#Base Legs (Skintone 4) Female)#baselegs#f_baselegs_4#0#1#0#f#
+103#Base Body (Skintone 4) (Female)#basebody#f_basebody_4#0#1#0#f#
+104#Base Head (Skintone 4) (Female)#basehead#f_basehead_4#0#1#0#f#
+105#Yellow Aura#back#b_back_yellowaura#39000#1#0#b#
+106#Dark Sword#front#b_front_darksword#21000#1#0#b#
+107#Dark Helmet#hat#b_hat_darkhelmet#8900#1#0#b#
+108#Dark Armor#jacket#b_jacket_darkarmor#29000#1#0#b#
+109#Brown Med-Length Hair (Female)#hair#f_hair_shoulder_brown#400#1#0#f#
+110#Dark Gauntlets#hands#b_hands_dark_gauntlets#9000#1#0#b#
+111#Black T-Shirt (Female)#shirt#f_tshirt_black#1000#1#0#f#
+112#Black Track Pants#pants#b_pants_track_black#1300#1#0#b#
+113#Dark Greaves#shoes#b_shoes_boots_dark#8500#1#0#b#
+114#Dark Cape#back#b_back_cape_dark#7000#1#0#b#
+115#The Tarafang#front#b_front_tarafang#120000#1#0#b#
+116#Red Ski Hat#hat#b_hat_ski_red#1400#1#0#b#
+117#Basic Brown Hair#hair#b_hair_brown_basic#400#1#0#b#
+118#White Suit Jacket#jacket#b_jacket_suit_white#11000#1#0#b#
+119#Watch#hands#b_hands_watch#150#1#0#b#
+120#White Business Shirt (Male)#shirt#m_shirt_business_white#3200#1#0#m#
+121#Green Cargo Pants#pants#b_pants_cargo_green#4900#1#0#b#
+122#Winged Sandals#shoes#b_shoes_wingedsandals#55000#1#0#b#
+123#Base Legs (Skintone 4) (male)#baselegs#m_baselegs_4#0#1#0#b#
+124#Base Body (Skintone 4) (male)#basebody#m_basebody_4#0#1#0#b#
+125#Base Head (Skintone 4) (Male)#basehead#m_basehead_4#0#1#0#m#
+126#Purple Aura#back#b_back_purpleaura#41000#1#0#b#
+127#Elven City Kel'Sor#background#b_background_kelsor#87000#1#0#b#
+128#Mugendai-Yaiba#front#b_front_msword#250000#1#0#b#
+129#Blue Ski Hat#hat#b_hat_ski_blue#1500#1#0#b#
+130#Bishonen Hair 1#hair#b_hair_bish1#4500#1#0#b#
+131#Yellow Jacket#jacket#b_jacket_yellow#3200#1#0#b#
+132#Two Golden Rings#hands#b_hands_goldrings#3700#1#0#b#
+133#Green T-Shirt (green)#shirt#m_tshirt_green#250#1#0#m#
+134#Red Jeans#pants#b_pants_red_jeans#700#1#0#b#
+135#Socks#shoes#b_shoes_socks#350#1#0#b#
+136#Robot Base Legs#baselegs#m_baselegs_robot#9600#1#0#b#
+137#Robot Base Body#basebody#m_basebody_robot#9500#1#0#b#
+138#Robot Base Head#basehead#m_basehead_robot#11500#1#0#b#
+139#Red Cape#back#b_back_cape_red#8000#1#0#b#
+140#Desert#background#b_background_desert#15000#1#0#b#
+141#Championship Belt#front#b_front_championbelt#16000#1#0#b#
+142#Black Ski Hat#hat#b_hat_ski_black#1600#1#0#b#
+143#Gotta Have Blue Hair#hair#b_hair_blue#7900#1#0#b#
+144#Blue Suit Jacket#jacket#b_jacket_suit_blue#8700#1#0#b#
+145#Drill Hands#hands#b_hands_drill#16000#1#0#b#
+146#Blue Business Shirt (Male)#shirt#m_shirt_business_blue#3200#1#0#m#
+147#White Dress Pants#pants#b_pants_whitedress#3200#1#0#b#
+148#Skeleton Base Legs#baselegs#m_baselegs_skel#12000#1#0#bm#
+149#Skeleton Base Body#basebody#m_basebody_skel#11500#1#0#m#
+150#Skeleton Base Head#basehead#m_basehead_skeleton#13000#1#0#m#
+151#White Dress Shoes#shoes#b_shoes_whitedress#6700#1#0#b#
+152#Melrak Flag#back#b_back_melrakflag#6660#1#0#b#
+153#Blank Purple Background#background#b_background_purple#199#1#0#b#
+154#Golden Paintbrush#front#b_front_goldenbrush#0#0#0#b#
+155#Black Sunglasses#hat#b_hat_sunglasses_black#1200#1#0#b#
+156#Blue Sunglasses#hat#b_hat_sunglasses_blue#1300#1#0#b#
+157#Yellow Sunglasses#hat#b_hat_sunglasses_yellow#1250#1#0#b#
+158#Round Sunglasses#hat#b_hat_sunglasses_round#1350#1#0#b#
+159#Small Round Sunglasses#hat#b_hat_sunglasses_small#1500#1#0#b#
+160#Heart Sunglasses#hat#b_hat_sunglasses_heart#1600#1#0#b#
+161#Black T-Shirt (Male)#shirt#m_tshirt_black#1200#1#0#m#
+162#Black Jacket#jacket#b_jacket_black#6500#1#0#b#
+163#Halo#hat#b_hat_halo#9900#1#0#b#
+164#Basic Hammer#front#b_front_hammer#5900#1#0#b#
+165#Brown Ponytail#hair#b_hair_brown_ponytail#970#1#0#b#
+166#White Armbands#hands#b_hands_whitearmbands#3400#1#0#b#
+167#Black Dress Pants#pants#b_pants_blackdress#3300#1#0#b#
+168#Black Dress Shoes#shoes#b_shoes_blackdress#6800#1#0#b#
+169#Demon Wings#back#b_back_demonwings#19666#1#0#b#
+170#The Sky#background#b_background_thesky#9999#1#0#b#
+171#Base Legs (Skintone 5) (Male)#baselegs#m_baselegs_5#0#1#0#b#
+172#Base Body (Skintone 5) (Male)#basebody#m_basebody_5#0#1#0#b#
+173#Base Head (Skintone 5) (Male)#basehead#m_basehead_5#0#1#0#b#

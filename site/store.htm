@@ -1,0 +1,45 @@
+<tr><td>
+<jsp:useBean id="decklist" class="webrunner.cardmaster.CardmasterDeckList" scope="page"/>
+<%String name = session.getAttribute("loginname").toString();%>
+<%decklist.loadUserData(); 
+decklist.loadUser(name);%>
+<jsp:useBean id="deck" class="webrunner.cardmaster.CardmasterNewDeck" scope="page"/>
+
+Buy new cards:<br>
+
+<img src="images/xp_0_title.gif"><br>
+The Original!  113 cards.  39 grey, 31 dark, and 43 light.<br>
+
+<%int numcards; int color;%>
+15 CARD BOOSTERS:
+<%numcards = 15;%> 
+<%color = 0;%> 
+<a href="page.jsp?pageurl=buyboost.jsp?numcards=<%=numcards%>&color=<%=color%>">All Colors</a> (<%=deck.cost(color,numcards)%> points) | 
+<%color = 4;%> 
+<a href="page.jsp?pageurl=buyboost.jsp?numcards=<%=numcards%>&color=<%=color%>">Light Only</a> (<%=deck.cost(color,numcards)%> points) |
+<%color = 2;%> 
+<a href="page.jsp?pageurl=buyboost.jsp?numcards=<%=numcards%>&color=<%=color%>">Dark Only</a> (<%=deck.cost(color,numcards)%> points) |
+<%color = 8;%> 
+<a href="page.jsp?pageurl=buyboost.jsp?numcards=<%=numcards%>&color=<%=color%>">Grey Only</a> (<%=deck.cost(color,numcards)%> points)
+<br>
+50 CARD STARTER DECKS: (3000 points each)<br>
+"Forces of Light" : A light colored deck.  10 Messengite Shrines and 5 Magic Orbs give you a good mana foundation, and your clerics will have a field day while a nice complement of game-controlling cards make up the backbone of the deck. <a href="page.jsp?pageurl=buystarter.jsp?n=0">BUY!</a><br>
+"Heralds of Melrac" : A dark colored deck.  10 Dark Obelisks and 5 Magic Skills provide the mana, while the Followers of Melrac use their special abilities.  Cannabalize and Skeletal Abomination are your aces in the hole.<a href="page.jsp?pageurl=buystarter.jsp?n=1">BUY!</a><br>
+"Slime Invader" : Grey deck.  A full complement of slimes, running on 10 Neutral Charms and 5 Mana Buckets give you a good start on the board, while a set of magic cards allow you to keep your opponent's field clear.<a href="page.jsp?pageurl=buystarter.jsp?n=2">BUY!</a><br>
+
+
+
+<br><br><br>
+Buy Singles:<br>
+<FORM METHOD=POST ACTION="page.jsp?pageurl=BuyCards.jsp">
+Buy Into Deck: 
+<SELECT NAME=deck>
+<%for (int i=1;i<decklist.numDecks();i++) { %>
+<OPTION VALUE=<%=decklist.getDeck(i)%>><%=decklist.getDeck(i)%> - <%=decklist.getDeckName(decklist.getDeck(i))%> - <%=decklist.primaryDeckMarker(i)%>
+<% } %>
+</SELECT>
+
+<INPUT TYPE=SUBMIT value="Buy Cards">
+</FORM>
+
+</td></tr>

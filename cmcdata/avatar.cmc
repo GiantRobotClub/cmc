@@ -1,0 +1,451 @@
+0#Blank#xx#blank#0#0#0#webrunner#
+1#Base Legs (Skintone 1) (Male)#baselegs#m_base_legs_1#0#0#0#webrunner#
+2#Base Body (Skintone 1) (Male)#basebody#m_base_body_1#0#0#0#webrunner#
+3#Base Head (Skintone 1) (Male)#basehead#m_base_head_1#0#0#0#webrunner#
+4#Webrunner Jacket#jacket#m_jacket_webrunner#99999#0#0#webrunner#
+5#White T-Shirt (Male)#shirt#m_tshirt_white#0#0#0#webrunner#
+6#Black Running Shoes#shoes#b_shoes_running_black#500#1#0#null#
+7#Blank Grey Background#background#b_background_grey#0#0#0#b#
+8#Black Poofy Hair#hair#b_hair_black_poofy#100#1#0#null#
+9#Basic Sword#front#b_front_sword_basic#6000#1#0#b#
+10#Tan Cargo Pants#pants#b_pants_cargo_tan#4500#1#0#webrunner#
+11#Blank Yellow Background#background#b_background_yellow#100#1#0#b#
+12#Grey Angel Wings#back#b_back_wings_ltgrey#20000#1#0#null#
+13#Base Head (Green) (Male)#basehead#m_base_head_green#700#1#0#m#
+14#Base Legs (Green) (Male)#baselegs#m_base_legs_green#777#1#0#m#
+15#Base Body (Green) (Male)#basebody#m_base_body_green#1000#1#0#m#
+16#Running Shoes (Blue)#shoes#b_shoes_running_blue#600#1#0#b#
+17#Blue Jeans#pants#m_pants_jeans#0#0#0#m#
+18#Fingerless Gloves (Dark Grey)#hands#b_hands_fingerless_black#1000#1#0#b#
+19#Red T-Shirt (Male)#shirt#m_tshirt_red#700#1#0#m#
+20#Dark Blue Jacket#jacket#m_jacket_darkblue#2500#1#0#m#
+21#Black Basic Hair#hair#b_hair_black_basic#700#1#0#null#
+22#Grey Backwards Baseball Cap#hat#b_hat_baseball_grey#1200#1#0#null#
+23#Purple Amulet with Gold Chain#front#b_front_amulet_gold_purple#10000#1#0#null#
+24#Base Legs (Skintone 2) (Male)#baselegs#m_base_legs_2#0#1#0#m#
+25#Base Body (Skintone 2) (Male)#basebody#m_base_body_2#0#1#0#m#
+26#Base Head (Skintone 2) (Male)#basehead#m_base_head_2#0#1#0#m#
+27#Void With Platforms#background#b_background_void_platforms#15000#1#0#b#
+28#Blue Cape#back#b_back_cape_blue#7000#1#0#b#
+29#Wooden Sandals#shoes#b_shoes_oriental_1#6000#1#0#b#
+30#Black Jeans (Male)#pants#m_pants_jeans_black#600#1#0#m#
+31#Dark Energy#hands#b_hands_darkenergy#9000#1#0#b#
+32#Blue T-Shirt (Male)#shirt#m_tshirt_blue#600#1#0#m#
+33#Red Jacket (Male)#jacket#m_jacket_red#3500#1#0#m#
+34#Blonde Basic Hair#hair#b_hair_blonde_basic#1000#1#0#b#
+35#Doctor's Mirror#hat#b_hat_doctors_disc#1700#1#0#b#
+36#Basic Axe#front#b_front_axe#6000#1#0#b#
+37#Cityscape Roof#background#b_background_cityroof#12500#1#0#b#
+38#Shadehawk's Hair#hair#b_hair_shadehawk#25000#1#0#b#
+39#Shadehawk's Sunglasses#hat#b_hat_shadehawk#45000#1#0#b#
+40#The Silver Arrow#front#b_front_silverarrow#66006#1#0#b#
+41#Shadehawk's Trenchcoat (Front)#jacket#m_jacket_shadehawk#35000#1#0#b#
+42#Shadehawk's T-Shirt#shirt#m_shirt_shadehawk#1500#1#0#m#
+43#Shadehawk's Arm Wraps#hands#b_hands_shadehawk#15000#1#0#b#
+44#Shadehawk's Pants#pants#m_pants_shadehawk#30000#1#0#m#
+45#Shadehawk's Boots#shoes#b_shoes_shadehawk#16000#1#0#b#
+46#Base Legs (Skintone 3) (Male)#baselegs#m_base_legs_3#0#1#0#m#
+47#Base Body (Skintone 3) (Male)#basebody#m_base_body_3#0#1#0#b#
+48#Base Head (Skintone 3) (Male)#basehead#m_base_head_3#0#1#0#m#
+49#Shadehawk's Trenchcoat (Flaps)#back#b_back_trenchcoat_shadehawk#10000#1#0#b#
+50#Broadsword#front#b_front_broadsword#19000#1#0#b#
+51#Brown Hat#hat#b_hat_brown#1200#1#0#b#
+52#Karn's Hair#hair#m_hair_karn#40000#1#0#b#
+53#Karn's Armor#jacket#m_jacket_karn#25000#1#0#m#
+54#Karn's Armguards#hands#b_hands_karn#21000#1#0#b#
+55#Brick Red Long Sleeved Shirt (Male)#shirt#m_shirt_burgundy#1500#1#0#m#
+56#Karn's Pants#pants#m_pants_karn#15100#1#0#m#
+57#Karn's Boots#shoes#b_shoes_karn#7000#1#0#b#
+58#ADV Skintone Base Legs (male)#baselegs#m_legs_karn#3000#1#0#m#
+59#ADV Skintone Base Body (Male)#basebody#m_body_karn#4000#1#0#m#
+60#Karn's Head#basehead#m_head_karn#16500#1#0#m#
+61#Slime Pets#back#b_back_slimepets#44000#1#0#b#
+62#Grasslands#background#b_background_grassland#35000#1#0#b#
+63#CMC Cards#front#b_front_cmccards#75000#1#0#b#
+64#Blue Backwards Baseball Cap#hat#b_hat_baseball_blue#1200#1#0#b#
+65#Black Mid-length Hair (Female)#hair#f_hair_shoulder_black#650#1#0#b#
+66#Purple Jacket#jacket#b_jacket_purple#3500#1#0#b#
+67#Gold Armbands#hands#b_hands_goldbands#5000#1#0#b#
+68#White T-Shirt (Female)#shirt#f_tshirt_white#150#1#0#f#
+69#Athletic Blue Shorts#pants#b_shorts_blue_athletic#1700#1#0#b#
+70#Red Running Shoes#shoes#b_shoes_running_red#750#1#0#b#
+71#Base Legs (Skintone 1) (Female)#baselegs#f_baselegs_1#0#1#0#b#
+72#Base Body (Skintone 1) (female)#basebody#f_basebody_1#0#1#0#f#
+73#Base Head (Skintone 1) (Female)#basehead#f_basehead_1#0#1#0#f#
+74#Fire Aura#back#b_back_fireaura#62626#1#0#b#
+75#Blank Green Background#background#b_background_green#200#1#0#b#
+76#Flooding (Front part)#front#b_front_water#6000#1#0#b#
+77#Flooding (Back Part)#back#b_back_water#6000#1#0#b#
+78#Red Backwards Baseball Cap#hat#b_hat_baseball_red#1300#1#0#b#
+79#Blonde Mid-Length Hair (female)#hair#f_hair_shoulder_blonde#1000#1#0#f#
+80#White Jacket#jacket#b_jacket_white#2750#1#0#b#
+81#Claw Weapons#hands#b_hands_clawweapons#6767#1#0#b#
+82#Pink T-Shirt (female)#shirt#f_tshirt_pink#350#1#0#f#
+83#Red Athletic Shorts#pants#b_shorts_red_athletic#1850#1#0#b#
+84#Grey Running Shoes#shoes#b_shoes_running_grey#650#1#0#b#
+85#Base Legs (Skintone 2) (Female)#baselegs#f_baselegs_2#0#1#0#f#
+86#Base Body (Skintone 2) (Female)#basebody#f_basebody_2#0#1#0#f#
+87#Base Head (Skintone 2) (Female)#basehead#f_basehead_2#0#1#0#f#
+88#Final Boss Fight 2#background#b_background_khrima2#98000#1#0#b#
+89#Final Boss Fight 1#background#b_background_khrima1#87000#1#0#b#
+90#Final Boss Fight 3#background#b_background_khrima3#78000#1#0#b#
+91#Darken (Night)#front#b_front_darken#6000#1#0#b#
+92#Wizard Hat#hat#b_hat_wizard#5600#1#0#b#
+93#White Mid-Length Hair (Female)#hair#f_hair_shoulder_white#3700#1#0#f#
+94#Black Suit Jacket#jacket#b_jacket_suit#9400#1#0#b#
+95#White Gloves#hands#b_hands_whitegloves#3300#1#0#b#
+96#Blue T-Shirt (Female)#shirt#f_tshirt_blue#600#1#0#f#
+97#Jean Cut-Offs#b_pants_cutoffs#b_pants_cutoffs#4200#1#0#b#
+98#Skis#shoes#b_shoes_skis#8700#1#0#b#
+99#Base Legs (Skintone 3) Female)#baselegs#f_baselegs_3#0#1#0#f#
+100#Base Body (Skintone 3) (Female)#basebody#f_basebody_3#0#1#0#f#
+101#Base Head (Skintone 3) (Female)#basehead#f_basehead_3#0#1#0#f#
+102#Base Legs (Skintone 4) Female)#baselegs#f_baselegs_4#0#1#0#f#
+103#Base Body (Skintone 4) (Female)#basebody#f_basebody_4#0#1#0#f#
+104#Base Head (Skintone 4) (Female)#basehead#f_basehead_4#0#1#0#f#
+105#Yellow Aura#back#b_back_yellowaura#39000#1#0#b#
+106#Dark Sword#front#b_front_darksword#21000#1#0#b#
+107#Dark Helmet#hat#b_hat_darkhelmet#8900#1#0#b#
+108#Dark Armor#jacket#b_jacket_darkarmor#29000#1#0#b#
+109#Brown Med-Length Hair (Female)#hair#f_hair_shoulder_brown#400#1#0#f#
+110#Dark Gauntlets#hands#b_hands_dark_gauntlets#9000#1#0#b#
+111#Black T-Shirt (Female)#shirt#f_tshirt_black#1000#1#0#f#
+112#Black Track Pants#pants#b_pants_track_black#1300#1#0#b#
+113#Dark Greaves#shoes#b_shoes_boots_dark#8500#1#0#b#
+114#Dark Cape#back#b_back_cape_dark#7000#1#0#b#
+115#The Tarafang#front#b_front_tarafang#120000#1#0#b#
+116#Red Ski Hat#hat#b_hat_ski_red#1400#1#0#b#
+117#Basic Brown Hair#hair#b_hair_brown_basic#400#1#0#b#
+118#White Suit Jacket#jacket#b_jacket_suit_white#11000#1#0#b#
+119#Watch#hands#b_hands_watch#150#1#0#b#
+120#White Business Shirt (Male)#shirt#m_shirt_business_white#3200#1#0#m#
+121#Green Cargo Pants#pants#b_pants_cargo_green#4900#1#0#b#
+122#Winged Sandals#shoes#b_shoes_wingedsandals#55000#1#0#b#
+123#Base Legs (Skintone 4) (male)#baselegs#m_baselegs_4#0#1#0#b#
+124#Base Body (Skintone 4) (male)#basebody#m_basebody_4#0#1#0#b#
+125#Base Head (Skintone 4) (Male)#basehead#m_basehead_4#0#1#0#m#
+126#Purple Aura#back#b_back_purpleaura#41000#1#0#b#
+127#Elven City Kel'Sor#background#b_background_kelsor#87000#1#0#b#
+128#Mugendai-Yaiba#front#b_front_msword#250000#1#0#b#
+129#Blue Ski Hat#hat#b_hat_ski_blue#1500#1#0#b#
+130#Bishonen Hair 1#hair#b_hair_bish1#4500#1#0#b#
+131#Yellow Jacket#jacket#b_jacket_yellow#3200#1#0#b#
+132#Two Golden Rings#hands#b_hands_goldrings#3700#1#0#b#
+133#Green T-Shirt (green)#shirt#m_tshirt_green#250#1#0#m#
+134#Red Jeans#pants#b_pants_red_jeans#700#1#0#b#
+135#Socks#shoes#b_shoes_socks#350#1#0#b#
+136#Robot Base Legs#baselegs#m_baselegs_robot#9600#1#0#b#
+137#Robot Base Body#basebody#m_basebody_robot#9500#1#0#b#
+138#Robot Base Head#basehead#m_basehead_robot#11500#1#0#b#
+139#Red Cape#back#b_back_cape_red#8000#1#0#b#
+140#Desert#background#b_background_desert#15000#1#0#b#
+141#Championship Belt#front#b_front_championbelt#16000#1#0#b#
+142#Black Ski Hat#hat#b_hat_ski_black#1600#1#0#b#
+143#Gotta Have Blue Hair#hair#b_hair_blue#7900#1#0#b#
+144#Blue Suit Jacket#jacket#b_jacket_suit_blue#8700#1#0#b#
+145#Drill Hands#hands#b_hands_drill#16000#1#0#b#
+146#Blue Business Shirt (Male)#shirt#m_shirt_business_blue#3200#1#0#m#
+147#White Dress Pants#pants#b_pants_whitedress#3200#1#0#b#
+148#Skeleton Base Legs#baselegs#m_baselegs_skel#12000#1#0#bm#
+149#Skeleton Base Body#basebody#m_basebody_skel#11500#1#0#m#
+150#Skeleton Base Head#basehead#m_basehead_skeleton#13000#1#0#m#
+151#White Dress Shoes#shoes#b_shoes_whitedress#6700#1#0#b#
+152#Melrak Flag#back#b_back_melrakflag#6660#1#0#b#
+153#Blank Purple Background#background#b_background_purple#199#1#0#b#
+154#Golden Paintbrush#front#b_front_goldenbrush#0#0#0#b#
+155#Black Sunglasses#hat#b_hat_sunglasses_black#1200#1#0#b#
+156#Blue Sunglasses#hat#b_hat_sunglasses_blue#1300#1#0#b#
+157#Yellow Sunglasses#hat#b_hat_sunglasses_yellow#1250#1#0#b#
+158#Round Sunglasses#hat#b_hat_sunglasses_round#1350#1#0#b#
+159#Small Round Sunglasses#hat#b_hat_sunglasses_small#1500#1#0#b#
+160#Heart Sunglasses#hat#b_hat_sunglasses_heart#1600#1#0#b#
+161#Black T-Shirt (Male)#shirt#m_tshirt_black#1200#1#0#m#
+162#Black Jacket#jacket#b_jacket_black#6500#1#0#b#
+163#Halo#hat#b_hat_halo#9900#1#0#b#
+164#Basic Hammer#front#b_front_hammer#5900#1#0#b#
+165#Brown Ponytail#hair#b_hair_brown_ponytail#970#1#0#b#
+166#White Armbands#hands#b_hands_whitearmbands#3400#1#0#b#
+167#Black Dress Pants#pants#b_pants_blackdress#3300#1#0#b#
+168#Black Dress Shoes#shoes#b_shoes_blackdress#6800#1#0#b#
+169#Demon Wings#back#b_back_demonwings#19666#1#0#b#
+170#The Sky#background#b_background_thesky#9999#1#0#b#
+171#Base Legs (Skintone 5) (Male)#baselegs#m_baselegs_5#0#1#0#b#
+172#Base Body (Skintone 5) (Male)#basebody#m_basebody_5#0#1#0#b#
+173#Base Head (Skintone 5) (Male)#basehead#m_basehead_5#0#1#0#b#
+174#Crazy Nose Glasses#hat#b_hat_glasses_crazy#2200#1#0#Kadddar#
+175#Argent's Armor#jacket#b_jacket_argent#43000#1#0#b#
+176#Argent's Armor Leggings#pants#b_pants_argent#39000#1#0#b#
+177#Argent's Boots#shoes#b_shoes_argent#31000#1#0#b#
+178#Argent's Hair#hair#b_hair_argent#21000#1#0#b#
+179#Base Head (ADV Skintone) (male)#basehead#m_basehead_adv#5000#1#0#m#
+180#Black Cape (Goes with Argent)#back#b_back_cape_argent#3700#1#0#b#
+181#Argent's Optional Front Cape#front#b_front_argentcape#9900#1#0#b#
+182#Final Frontier#background#b_background_space#19000#1#0#b#
+183#Propller-Top Beanie#hat#b_hat_beanie#7600#1#0#b#
+184#Neon Green Shirt (Male)#shirt#m_shirt_neongreen#4300#1#0#m#
+185#Base Body (purple) (Male)#basebody#m_basebody_purple#1200#1#0#b#
+186#Base Head (Purple) (Male)#basehead#m_basehead_purple#1000#1#0#bm#
+187#Base Legs (Purple) (Male)#baselegs#m_baselegs_purple#1100#1#0#b#
+188#Cutlass#front#b_front_cutlass#9600#1#0#b#
+189#YAR!#front#b_front_yar#20000#1#0#b#
+190#Pirate Hat with Eyepatch#hat#b_hat_pirate#17000#1#0#b#
+191#Yellow Pirate Beard (Male)#hair#m_hair_pirate_yellow#7600#1#0#b#
+192#Black Pirate Beard (Male)#hair#m_hair_pirate_black#7700#1#0#m#
+193#Red Pirate Beard (Male)#hair#m_hair_pirate_red#7650#1#0#b#
+194#Pirate Vest#jacket#b_jacket_pirate#28000#1#0#b#
+195#Pirate Hook#hands#b_hands_pirate#14000#1#0#b#
+196#Puffy Pirate Shirt (Male)#shirt#m_shirt_pirate#15000#1#0#m#
+197#Puffy Red Pants#pants#b_pants_puffyred#9500#1#0#b#
+198#Puffy Red Pants (One Leg)#pants#b_pants_puffyred_single#9700#1#0#b#
+199#Shiny Pirate Boots#shoes#b_shoes_pirate#5000#1#0#b#
+200#Shiny Pirate Boot#shoes#b_shoes_pirate_single#5500#1#0#b#
+201#Base Peg Leg (Male)#baselegs#m_baselegs_peg#14000#1#0#m#
+202#Scarred Base Head#basehead#m_basehead_scar#10000#1#0#m#
+203#Pirate Booty#back#b_back_treasure#16000#1#0#b#
+204#Polly want a Cracker#back#b_back_parrot#14000#1#0#b#
+205#Avast ye! Swab the Deck!#background#b_back_avastye#20000#1#0#b#
+206#Karn's Shirt#shirt#m_shirt_karn#2000#1#0#m#
+207#Code#background#b_background_code#0#0#0#b#
+208#TESTACCT#front#b_front_testacct#0#0#0#b#
+209#Quilted Cape#back#b_back_quiltcape#0#0#0#webrunner#
+210#Crack Box#front#b_front_crackbox#0#0#0#webrunner#
+211#Top Hat and Monocle#hat#b_hat_tophatm#90000#1#0#webrunner#
+212#Monocle#hat#b_hat_mono#60000#1#0#webrunner#
+213#Black Rimmed Glasses#hat#b_hat_glasses_clarkkent#3200#1#0#webrunner#
+214#Big Round Glasses#hat#b_hat_glasses_round#4200#1#0#webrunner#
+215#Reading Glasses#hat#b_hat_glasses_small#4000#1#0#webrunner#
+216#Civilian Wrench Hair (Voucher)#hair#f_hair_wrench#0#0#0#webrunner#
+217#Echo Hair (Voucher)#hair#m_hair_echo#0#0#0#webrunner#
+218#Dark Elf Base Head#basehead#m_basehead_kelar#7600#1#0#webrunner#
+219#Dark Elf Base Body#basebody#m_base_body_kelar#5100#1#0#webrunner#
+220#Dark Elf Base Legs#baselegs#m_base_legs_kelar#4500#1#0#webrunner#
+221#Shade Dragon Helm (Donor)#hat#b_hat_dragonhelm#0#0#0#webrunner#
+222#e Gift Shop Shirt (Donor)#shirt#m_shirt_eshirt#0#0#0#webrunner#
+223#Tera Corp Office (Winner)#background#officegift#0#0#0#webrunner#
+224#Solar Warpbird (Donor)#front#warpbird#0#0#0#webrunner#
+225#Brown Beard (male)#hair#kaddar_m_hair_beard_1#3200#1#0#Kaddar#
+226#Gray Beard (Male)#hair#kaddar_m_hair_beard_2#8000#1#0#Kaddar#
+227#Wizard Tunic (male)#jacket#kaddar_m_jacket_wizard#29000#1#0#Kaddar#
+228#Wizard Robe (bottom)#pants#kaddar_m_pants_wizard#9000#1#0#Kaddar#
+229#Wizard Tunic (female)#jacket#kaddar_f_jacket_wizard#19000#1#0#Kaddar#
+230#Wizard Staff#front#kaddar_b_front_staff#3100#1#0#Kaddar#
+231#Light Energy#hands#kaddar_b_hands_magic_1#9000#1#0#Kaddar#
+232#Genie Legs#baselegs#kaddar_b_legs_genie#9000#1#0#Kaddar#
+233#Blue Striped Shirt (Male) -K#shirt#kaddar_m_shirt_bluestripe#900#1#0#m#
+234#Aqua Striped Shirt (Male) -K#shirt#kaddar_m_shirt_aquastripe#900#1#0#m#
+235#Black Striped Shirt (Male) -K#shirt#kaddar_m_shirt_blackstripe#1300#1#0#m#
+236#Red Striped Shirt (Male) -K#shirt#kaddar_m_shirt_redstripe#1000#1#0#m#
+237#Green Striped Shirt (Male) -K#shirt#kaddar_m_shirt_greenstripe#950#1#0#m#
+238#Yellow Striped Shirt (Male) -K#shirt#kaddar_m_shirt_yellowstripe#850#1#0#m#
+239#Blank Blue -K#background#kaddar_b_background_cblue#400#1#0#b#
+240#Blank Dark Aqua -K#background#kaddar_b_background_cdaqua#300#1#0#b#
+241#Blank White -K#background#kaddar_b_background_cwhite#200#1#0#b#
+242#Blank Dark Green -K#background#kaddar_b_background_cdgreen#400#1#0#b#
+243#Blank Dark Red -K#background#kaddar_b_background_cred#499#1#0#b#
+244#Gradient Orange -K#background#kaddar_b_background_gorange#4000#1#0#b#
+245#Gradient Blue -K#background#kaddar_b_background_gblue#5000#1#0#b#
+246#CmC Gray -K#background#kaddar_b_background_gray#10000#1#0#b#
+247#CmC Dark -K#background#kaddar_b_background_dark#12000#1#0#b#
+248#CmC Light -K#background#kaddar_b_background_light#11000#1#0#b#
+249#Gradient Red -K#background#kaddar_b_background_gred#4500#1#0#b#
+250#CmC Dark-Gray#background#kaddar_b_background_darkgray#20000#1#0#b#
+251#CmC Light Gray#background#kaddar_b_background_whitegray#22000#1#0#b#
+252#CmC Dark Light#background#kaddar_b_background_whiteblack#20000#1#0#b#
+253#CmC Tricolor#background#kaddar_b_background_tricolor#30000#1#0#b#
+254#Blue Hoodie (male) -K#shirt#kaddar_m_shirt_hoodie#1300#1#0#m#
+255#Black Hoodie (male) -K#shirt#kaddar_m_shirt_hoodie_black#2800#1#0#m#
+256#Orange Hoodie (male) -K#shirt#kaddar_m_shirt_hoodie_orange#1500#1#0#m#
+257#White Hoodie (male) -K#shirt#kaddar_m_shirt_hoodie_white#2500#1#0#m#
+258#Seagreen Hoodie (male) -K#shirt#kaddar_m_shirt_hoodie_seagreen#1300#1#0#m#
+259#O'Range™ Name Brand Hoodie (male) -K#shirt#kaddar_m_shirt_hoodie_o_range#2999#1#0#m#
+260#O'Range™ Name Brand Shirt (male) -K#shirt#kaddar_m_shirt_t_o_range#1099#1#0#m#
+261#Alternative Head (Skintone 1) (Male)-K#basehead#kaddar_m_head_skintone1#0#1#0#m#
+262#Wooden Sword#front#kaddar_m_front_woodensword#3000#1#0#Kaddar#
+263#(looks too round so I didn't put it in the shop)#front#kaddar_m_front_magicsword#0#0#0#b#
+264#KRad™ Shoes#shoes#kaddar_m_shoes_kadshoes#0#0#0#b#
+265#Aqua Cape -K#back#kaddar_b_back_kcape#5000#1#0#b#
+266#Basic Jacket -K#jacket#kaddar_m_jacket_orange#999#1#0#m#
+267#Alternative Head (Skintone 2) (Male)-K#basehead#kaddar_m_head_skintone2#0#1#0#m#
+268#Alternative Head (Skintone 4) (Male)-K#basehead#kaddar_m_head_skintone4#0#1#0#m#
+269#Alternative Head (Skintone 5) (Male)-K#basehead#kaddar_m_head_skintone5#0#1#0#m#
+270#Opal Crystal Lightblade -K#front#kaddar_front_sword1b#65000#1#0#b#
+271#Ruby Crystal Lightblade -K#front#kaddar_front_sword2b#85000#1#0#b#
+272#Amethyst Crystal Lightblade -K#front#kaddar_front_sword3b#85000#1#0#b#
+273#Emeral Lightblade -K#front#kaddar_front_sword4b#65000#1#0#b#
+274#Tan Skirt (female) -K#pants#kaddar_pants_skirt#999#1#0#f#
+275#Blue Skirt (female)#pants#kaddar_pants_skirt2#999#1#0#Kaddar#
+276#Pantyhose (Female) -K#baselegs#kaddar_baselegs_legging#2000#1#0#f#
+277#Messy Brown Hair#hair#kaddar_hair_style1#500#1#0#Kaddar#
+278#Unparted Brown Hair#hair#kaddar_hair_style2#500#1#0#Kaddar#
+279#Redhead styled hair#hair#kaddar_hair_style3#800#1#0#Kaddar#
+280#Red Vest#jacket#kaddar_jacket_vest_red#2000#1#0#Kaddar#
+281#Blue Vest#jacket#kaddar_jacket_vest_blue#2000#1#0#Kaddar#
+282#Green Vest#jacket#kaddar_jacket_vest_green#2000#1#0#Kaddar#
+283#Black Vest#jacket#kaddar_jacket_vest_black#3500#1#0#Kaddar#
+284#White Vest#jacket#kaddar_jacket_vest_white#3500#1#0#Kaddar#
+285#Empty slot (Was bugged free aqua vest)  (Will be cheap jacket of some sort#jacket#blank#0#0#0#Kaddar#
+286#Basic Vest#jacket#kaddar_jacket_vest_basic#999#1#0#b#
+287#Base Legs (Skintone 6) (Male)#baselegs#kaddar_baselegs_skintone6#0#1#0#Kaddar#
+288#Base Body(Skintone 6) (Male)#basebody#kaddar_basebody_skintone6#0#1#0#Kaddar#
+289#Base Head (Skintone 6) (Male)#basehead#kaddar_basehead_skintone6#0#1#0#Kaddar#
+290#Alternative Head (Skintone 6) (Male)#basehead#kaddar_basehead_skintone6_2#0#1#0#Kaddar#
+291#Stereotyped Head (Skintone 6) (Male)#basehead#kaddar_basehead_skintone6_3#0#1#0#Kaddar#
+292#Basic Platemail#shirt#kaddar_shirt_armor#25000#1#0#Kaddar#
+293#Basic Platemail (Bottom)#pants#kaddar_pants_armor#18000#1#0#Kaddar#
+294#Basic Armor (Female)#shirt#kaddar_shirt_armor_f#18000#1#0#Kaddar#
+295#Shoulder Pads#front#kaddar_front_thingy#0#0#0#Kaddar#
+296#Armor Pads#jacket#kaddar_front_thingy_2#9000#1#0#Kaddar#
+297#Brown Tunic#shirt#kaddar_shirt_browntunic#500#1#0#Kaddar#
+298#Green Tunic#shirt#kaddar_shirt_greentunic#1300#1#0#Kaddar#
+299#A shadow#back#kaddar_back_shadow#1000#1#0#Kaddar#
+300#Alternative Head (skintone 3) (Male)#basehead#kaddar_m_head_skintone3#0#1#0#Kaddar#
+301#Aqua Vest#jacket#kaddar_jacket_vest_aqua#2000#1#0#Kaddar#
+302#testb#background#blank#0#0#0#Kaddar#
+303#special#background#kaddar_tfees#0#0#0#Kaddar#
+304#Brown Afro#hair#kaddar_hair_afro#6100#0#0#kaddar#
+305#Black Afro#hair#kaddar_hair_afro_black#6500#1#0#Kaddar#
+306#Blue Shorts#pants#kaddar_pants_shorts1#1000#1#0#Kaddar#
+307#Red Shorts#pants#kaddar_pants_shorts2#1000#1#0#Kaddar#
+308#test#back#blank#0#0#0#Kaddar#
+309#Tan Shorts#pants#kaddar_pants_shorts3#1000#1#0#Kaddar#
+310#Black Shorts#pants#kaddar_pants_shorts4#1000#1#0#Kaddar#
+311#Swim Trunks#pants#kaddar_pants_shorts5#1600#1#0#Kaddar#
+312#Red Swim Trunks#pants#kaddar_pants_shorts6#1600#1#0#Kaddar#
+313#Green Swim Trunks#pants#kaddar_pants_shorts7#1600#1#0#Kaddar#
+314#Fireball Skateboard#back#kaddar_back_skateboard_2#15000#1#0#Kaddar#
+315#kaddar_front_skateboard_1#hands#kaddar_front_skateboard_1#0#0#0#Kaddar#
+316#Nefarious Pants#pants#b_pants_nefarious#8400#1#0#webrunner#
+317#Nefarous Shirt#shirt#m_shirt_nefarious#3400#1#0#webrunner#
+318#Nefarious Jacket#jacket#b_jacket_nefarious#15000#1#0#webrunner#
+319#Nefarious Jacket Tail#back#b_back_trenchcoat_nefarious#8900#1#0#webrunner#
+320#Nefarious Hair#hair#b_hair_nefarious#9000#1#0#webrunner#
+321#kaddar_front_blackfog#front#kaddar_front_blackfog#0#0#0#Kaddar#
+322#RedHead's Parted Hair#hair#kaddar_hair_brightredhead#900#1#0#Kaddar#
+323#Poofy White Beard#hair#kaddar_hair_whitebeard#10000#1#0#Kaddar#
+324#kaddar_pants_camo#pants#kaddar_pants_camo#8000#0#0#Kaddar#
+325#(too similar to pirate boots?)#shoes#kaddar_shoes_blackboots#0#0#0#Kaddar#
+326#Wacky Physicist Hair#hair#kaddar_hair_crazy#11000#1#0#Kaddar#
+327#O'Range™ Brand Shoes#shoes#kaddar_m_shoes_orange#1200#1#0#Kaddar#
+328#Khrima Base Legs#baselegs#m_baselegs_khrima#4500#1#0#webrunner#
+329#Khrima Base Body#basebody#m_basebody_khrima#5000#1#0#webrunner#
+330#Khrima Base Head#basehead#m_basehead_khrima#10000#1#0#webrunner#
+331#Gauntlet of Shielding (Donation)#hands#b_hands_gauntlet#0#0#0#webrunner#
+332#Noxious Cloud (donation)#front#noxious#0#0#0#webrunner#
+350#Ribbon'd Pink Hair#hair#masamunemaniac_hair_f_pinkandibbon#10000#1#0#masamunemaniac#
+351#Kelar's Charmshield#front#zaen_front_charmshielder#23000#1#0#Zaen#
+352#Heart Wand#front#masamune_front_heartwand#13000#1#0#Masamune#
+353#Star Wand#front#masamune_front_starwand#13000#1#0#Masamune#
+354#Tanuki Robe (Green)#pants#jstrom_pants_tnkrobe2#14000#1#0#BlackFox#
+355#Tanuki Robe Top (Green)#shirt#jstrom_shirt_tnkrobe2#14000#1#0#BlackFox#
+356#Tanuki Robe Top (Alternate)#shirt#jstrom_shirt_tnkrobe3#14000#1#0#BlackFox#
+357#Light Blue Skirt#pants#masamunemaniac_skirt_wavy_liteblue#1700#1#0#Masamune#
+358#Green Striped Skirt#pants#masamunemaniac_skirt_2stripes_green#1500#1#0#Masamune#
+359#Black Striped Skirt#pants#masamunemaniac_skirt_2stripes_black#2000#1#0#Masamune#
+360#Blank#shirt#masamunemaniac_shirt_f_thinvest_small#0#0#0#Masamune#
+361#Blank#shirt#masamunemaniac_shirt_f_thinvest_med#0#0#0#Masamune#
+362#Blank#shirt#masamunemaniac_shirt_f_longsleeve_white#0#0#0#Masamune#
+363#Blue longsleeve female shirt#shirt#masamunemaniac_shirt_f_longsleeve_blue#2000#1#0#Masamune#
+364#Brown Rabbit Ears#hat#masamunemaniac_hat_furryears_brown#4000#1#0#Masamune#
+365#Grey Rabbit Ears#hat#masamunemaniac_hat_furryears_grey#4000#1#0#Masamune#
+366#Witch's Hat#hat#masamunemaniac_hat_witchblk#9000#1#0#Masamune#
+367#Women's Top (Blue)#shirt#masamunemaniac_shirt_f_bratop_blue#6000#1#0#Masamune#
+368#Women's Top (Pink)#shirt#masamunemaniac_shirt_f_bratop_pink#6000#1#0#Masamune#
+369#Women's Top (Yellow)#shirt#masamunemaniac_shirt_f_bratop_yellow#6000#1#0#Masamune#
+370#Black Female Longsleeve Shirt#shirt#masamunemaniac_shirt_f_longsleeve_black#2000#1#0#Masamune#
+371#Blank#hair#blank#0#0#0#Masamune#
+372#Blank#hair#blank#0#0#0#Masamune#
+373#Blank#background#masamunemaniac_bg_fullcardback#0#0#0#Masamunemaniac#
+374#Blank#background#masamunemaniac_bg_angledcardbacks#0#0#0#Masamunemaniac#
+375#Orange Tail#back#masamunemaniac_back_tail_orange#7500#1#0#Masamunemaniac#
+376#Tanuki Robe Top#shirt#jstrom_shirt_tnkrobe#12000#1#0#BlackFox#
+377#Tanuki's Sake#front#jstrom_sake#15000#1#0#BlackFox#
+378#Tanuki Robe#pants#jstrom_pants_tnkrobe#12000#1#0#BlackFox#
+379#Tanuki Legs #baselegs#jstrom_legs_tnk#10000#1#0#Jstrom#
+380#Tanuki Ears#hat#jstrom_hat_tnk#7000#1#0#BlackFox#
+381#Tanuki Body#basebody#jstrom_body_tnk#9000#1#0#BlackFox#
+382#Tanuki Head#basehead#jstrm_head_tnk#12000#1#0#BlackFox#
+383#Sword and Shield (A)#front#domino_front_palswsh2#22000#1#0#Domino#
+384#Sword and Shield (B)#front#domino_front_palswsh1#22000#1#0#Domino#
+385#Ninja  Mask#hair#leander_hair_ninja#16500#1#0#Leander#
+386#Ninja Pants#pants#leander_pants_ninja#12000#1#0#Leander#
+387#Ninja Tunic#shirt#leander_shirt_ninja#13500#1#0#Leander#
+388#Ninja shoes#shoes#leander_bi_ninja#12000#1#0#Leander#
+389#Crescent Blade#front#mistral_front_sm_03#0#0#0#Mistral#
+390#Double Sai#front#mistral_front_sm_04#10000#1#0#Mistral#
+391#Pink Delight#hair#mistral_hair_sm_01#8000#1#0#Mistral#
+392#Sensei no pantsu#pants#mistral_pants_sm_01#19000#1#0#mistral#
+393#Dojo#background#mistral_backgroung_sm_01#18000#1#0#Mistral#
+394#Naginata#front#mistral_front_sm_01#19000#1#0#Mistral#
+395#The Anchor#front#mistral_front_sm_02#19000#1#0#Mistral#
+396#China Hat#hat#Mistral_Hat_sm_01_China#8500#1#0#Mistral#
+397#C'ptn's Hat#hat#mistral_hat_sm_02#2500#1#0#Mistral#
+398#Sunset fields#background#Mistral_backgroung_sm_02#45000#1#0#Mistral#
+399#Brown Tuff#hair#Mistral_hair_sm_02#3000#1#0#Mistral#
+400#Blue Bawl#hair#Mistral_hair_sm_03#8000#1#0#Mistral#
+401#Kitty Ears#hat#Mistral_hat_sm_03#8000#1#0#Mistral#
+402#Melrak Hood#hat#Domino_hat_hood_1#11000#1#0#Domino#
+403#Melrak Robe Unpatterned (Bottom)#pants#Domino_hat_hood_2#14000#1#0#Domino#
+404#Melrak Robe Patterned (Bottom)#pants#Domino_pants_robebottom#18000#1#0#Domino#
+405#Melrak Robe Unpatterned (top)#shirt#Domino_shirt_robetop#15000#1#0#Domino#
+406#Melrak Robe Patterned (Top)#shirt#Domino_shirt_robetop2#24000#1#0#Domino#
+407#Dizzy Symbol#front#masamunemaniac_front_dizzy#20000#1#0#Masamunemaniac#
+408#Impulse Judgement#front#masamunemaniac_front_impulsejudgement#0#0#0#Masamunemaniac#
+409#Deck Testing Sign#front#masamunemaniac_front_sign-decktesting#5#1#0#Masamunemaniac#
+410#Taunting Sign#front#masamunemaniac_front_sign-ipwnzu#7000#1#0#Masamunemaniac#
+411#Newbie Sign#front#masamunemaniac_front_sign-newbie#0#1#0#Masamunemaniac#
+412#Play me Sign#front#masamunemaniac_front_sign-playme#300#1#0#Masamunemaniac#
+413#Playing With All Extra Cards Only Deck Sign#front#masamunemaniac_front_sign-sparechange#0#1#0#Masamunemaniac#
+414#Tournament Match Sign#front#masamunemaniac_front_sign-tourneymatch#0#1#0#Masamunemaniac#
+415#Yellow Hair With a Ribbon (Female)#hair#masamunemaniac_hair_f_longblondribbon#6000#1#0#Masamunemaniac#
+416#Mermaid's Tail  (Dark Green)#baselegs#masamunemaniac_legs_mertail1#12000#1#0#Masamunemaniac#
+417#Mermaid's Tail  (Purple)#baselegs#masamunemaniac_legs_mertail2#12000#1#0#Masamunemaniac#
+418#Mermaid's Tail (Lime Green)#baselegs#masamunemaniac_legs_mertail3#12000#1#0#Masamunemaniac#
+419#Chest Belt (Female)#shirt#masamunemaniac_shirt_f_beltbra#4000#1#0#Masamunemaniac#
+420#Butterfly Fairy Wings#back#Mistral_Back_sm_01_Fairy_Wings#20001#1#0#Mistral#
+421#Ye Olde Axe#front#Mistral_Front_sm_05_Ye_Olde_Axe#20000#1#0#Mistral#
+422#Brass Mace#front#Mistral_Front_sm_06_Brass_Mace#11000#1#0#Mistral#
+423#Angelic Sword#front#domino_front_angelicsword1#52000#1#0#Domino#
+424#Angelic Sword#front#domino_front_angelicsword2#49000#1#0#Domino#
+425#Assassin's Blades#hands#domino_front_assassinblade#17000#1#0#Domino#
+426#Paladin's Leggings (Female)#pants#domino_pants_paladin_female#10000#1#0#Domino#
+427#Paladin's Plate Armor (female)#shirt#domino_shirt_paladin_female#25000#1#0#Domino#
+428#Paladin's Leggings (Male)#pants#domino_pants_paladin_male#10000#1#0#Domino#
+429#Paladin's Armor Plate (Male)#shirt#domino_shirt_paladin_male#32000#1#0#Domino#
+430#Paladin's Shoes#shoes#domino_shoes_paladin#12000#1#0#Domino#
+431#Paladin's Gloves#hands#domino_hands_paladin#4000#1#0#Domino#
+432#The Green Corridor#background#Mistral_Backgroung_sm_03_Greenish Corridor#35000#1#0#Mistral#
+433#Chainsaw#front#Mistral_Front_sm_06_Chainsaw#28000#1#0#Mistral#
+434#Kabuki Mask#hair#Mistral_Hair_sm_04_Kabuki_Mask#16000#1#0#Mistral#
+435#Light Blue Vest#shirt#Mistral_Shirt_sm_Tunic#13000#1#0#Mistral#
+436#Cane of Kaayn'di#front#masamunemaniac_front_caneofkaayn'di#19000#1#0#Masamunemaniac#
+437#I-Karashi's Katanas#front#masamunemaniac_front_ikarashikatanas#85000#1#0#Masamunemaniac#
+438#Blank#hair#masamunemaniac_hair_f_spikypigtails_red#0#0#0#Masa#
+439#Hockey Mask#hat#tamdrick_hat_hockeymask#11000#1#0#Tamdrik#
+440#(Haze too opaque)#front#masamunemaniac_front_haze_red#0#0#0#Masamune#
+441#Dual Angelic Swords#front#domino_front_dualsword#85000#1#0#Domino#
+442#domino_hands_jestred#hands#domino_hands_jestred#0#0#0#Domino#
+443#domino_hat_jestred#hat#domino_hat_jestred#0#0#0#Domino#
+444#domino_pants_jestred#pants#domino_pants_jestred#0#0#0#Domino#
+445#domino_shirt_jestred#shirt#domino_shirt_jestred#0#0#0#Domino#
+446#domino_shoes_jestred#shoes#domino_shoes_jestred#0#0#0#Domino#
+447#Kelar Legs (Female)#baselegs#masamune_legs_kelar#4500#1#0#Masamune#
+448#Kelar Body (Female)#basebody#masamune_body_kelar#5100#1#0#Masamune#
+449#Kelar Head (Female)#basehead#masamune_head_kelar#7600#1#0#Masamune#
+450#domino_bikini_top_red#shirt#domino_bikini_top_red#0#0#0#Domino#
+451#domino_suit_bottom_red#pants#domino_suit_bottom_red#0#0#0#Domino#
+452#domino_suit_top_red#shirt#domino_suit_top_red#0#0#0#Domino#
+453#domino_lifeguard_top#shirt#domino_lifeguard_top#0#0#0#Domino#
+454#Maniacal Blade#front#masamunemaniac_front_randomsword#35000#1#0#Masamunemaniac#
+500#Khrima Robe Bottom#pants#b_pants_khrima#11000#1#0#webrunner#
+501#Khrima Robe Chest#jacket#b_jacket_khrima#20000#1#0#webrunner#
+502#Khrima Hair#hair#b_hair_khrima#15000#1#0#webrunner#
+503#Khrima Wings#back#b_back_wings_khrima#35000#1#0#webrunner#
+504#Khrima's Face Tattoo#hat#b_hat_khrimatat#9700#1#0#webrunner#
+505#White Strap Shirt (Male)#shirt#m_shirt_tank#940#1#0#webrunner#
+506#Red Hawaiian Shirt#jacket#b_jacket_haw_red#3700#1#0#webrunner#
+507#Blue Hawaiian Shirt#jacket#b_shirt_haw_blue#3700#1#0#webrunner#
+508#Yellow Hawaiian Shirt#jacket#b_shirt_haw_yellow#3700#1#0#webrunner#
+509#Party! Party! (Voucher)#hat#b_hat_party#0#0#0#webrunner#
+510#Festive Hat (Voucher)#hat#s_hat_xmas#0#0#0#webrunner#
+511#Weather Map (Donation)#background#s_background_map#0#0#0#webrunner#
+512#Hearts (Voucher)#back#b_back_hearts#0#0#0#webrunner#
